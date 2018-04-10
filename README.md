@@ -1,4 +1,4 @@
-## Test Hotels Server (ejercicio 1)
+## Test Hotels Server (exercise 1)
 
 Clone the project
 
@@ -23,5 +23,7 @@ $ npm run dev
 ```sh
 $ npm run start 
 ```
+
+*Note: the extras of the exercise has been developed, but not with image support of API (if you want to create a Hotel, send a url image from web)
 
 :)
