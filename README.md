@@ -24,6 +24,6 @@ $ npm run dev
 $ npm run start 
 ```
 
-*Note: the extras of the exercise has been developed, but not with image support of API (if you want to create a Hotel, send a url image from web)
+## Note: the extras of the exercise has been developed, but not with image support of API (if you want to create a Hotel, send a url image from web)
 
 :)
